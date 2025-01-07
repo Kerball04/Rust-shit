@@ -34,3 +34,5 @@ fn main() {
 
     println!("The result is: {}", result);
 }
+
+// todo => add (better) error handling
