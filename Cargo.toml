@@ -3,6 +3,6 @@
 resolver = "2"
 
 members = [
-    "crate1",
-    "crate2"
+    "calculator",
+    "tempcomp"
 ]
