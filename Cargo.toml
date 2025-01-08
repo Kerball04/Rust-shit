@@ -5,5 +5,7 @@ resolver = "2"
 members = [
     "calculator",
     "tempcomp",
-    "guessing_game"
-]
+    "guessing_game", 
+    "variables", 
+    "functions"
+    ]
