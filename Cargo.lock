@@ -139,6 +139,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "rock_paper_scissors"
+version = "0.1.0"
+dependencies = [
+ "rand",
+]
+
+[[package]]
 name = "stopwatch"
 version = "0.1.0"
 
