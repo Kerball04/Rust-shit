@@ -9,4 +9,4 @@ members = [
     "variables", 
     "functions", 
     "fizzbuzz"
-    ]
+    , "primechecker"]
