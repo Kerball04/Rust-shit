@@ -7,5 +7,6 @@ members = [
     "tempcomp",
     "guessing_game", 
     "variables", 
-    "functions"
+    "functions", 
+    "fizzbuzz"
     ]
