@@ -9,4 +9,4 @@ members = [
     "variables", 
     "functions", 
     "fizzbuzz"
-    , "primechecker", "stopwatch", "rock_paper_scissors", "unit_converter", "fibonacci"]
+    , "primechecker", "stopwatch", "rock_paper_scissors", "unit_converter", "fibonacci", "testing"]
